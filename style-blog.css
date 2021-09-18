@@ -1,0 +1,63 @@
+.text-blog{
+  background-color: transparent;
+  width: 75%;
+  height: auto;
+  padding: 5%;
+  display: inline-block;
+  border:  1px solid #DAD1D0;
+  color: #6E4944;
+}
+.imgblog{
+  width:70%;
+  height: auto;
+}
+hr{
+  width: 100%;
+}
+.box-form-blog{
+  background-color: transparent;
+  width: 50%;
+  padding: 2%;
+  display: flex;
+  text-align: left;
+}
+.box-blogs{
+  background-color: transparent;
+  width: 75%;
+  padding: 2%;
+  text-align: left;
+  color: #6E4944;
+  font-size: 1.3em;
+}
+.blog{
+  background-color: transparent;
+  width:30%;
+  margin-right: 5%;
+  height: auto;
+  display: inline-block;
+  border:  1px solid #DAD1D0;
+  color: #6E4944;
+  justify-content: left;
+  font-size: 0.7em;
+}
+.tabulacion{
+	margin-left: 5%;
+}
+.textoizquierda{
+  text-align: left;
+  font-size: 1.3em;
+}
+.comentario{
+  width: 90%;
+  height: auto;
+  border: 1px solido #6E4944;
+  color: #6E4944;
+  padding: 1%;
+  display: inline-block;
+}
+.user{
+  width: 8%;
+  height: auto;
+  display: inline-block;
+  border: 1px solido #6E4944;
+}

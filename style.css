@@ -1,0 +1,177 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  background-color: #FFFFFF;
+}
+#logo{
+  margin: auto;
+  height: 10%;
+  width: 10%;
+  text-align: center;
+}
+nav{
+  height: 80%;
+  background-color:#FFFFFF;
+  text-align: center;
+}
+nav ul{
+  list-style: none;
+  display: inline-block;
+  padding:18px;
+}
+nav ul li{
+  float: left;
+  margin-top: 20px;
+}
+nav ul li a {
+  color: #000000;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 18px;
+}
+nav ul li a:hover{
+ color: #CB997B;
+}
+h1{
+  color: #D09B71;
+  font-size: 5em;
+  font-weight:normal;
+}
+.box{
+  background-color: transparent;
+  padding: 2%;
+  display: flex;
+  justify-content: center;
+}
+div .img{
+  background-color: transparent;
+  width: 30%;
+  padding: 0;
+  display: inline-block;
+  border-top:  1px solid #DAD1D0;
+  border-left:  1px solid #DAD1D0;
+  border-bottom:  1px solid #DAD1D0;
+}
+img{
+  width: 100%;
+  height: 100%;
+}
+.text{
+  background-color: transparent;
+  width: 45%;
+  padding: 1%;
+  display: inline-block;
+  border-top:  1px solid #DAD1D0;
+  border-right:  1px solid #DAD1D0;
+  border-bottom:  1px solid #DAD1D0;
+  border-top-right-radius: 7px;
+  border-bottom-right-radius: 7px;
+  color: #6E4944;
+}
+h2{
+  size:12px;
+}
+.fech{
+  width: 100%;
+  height: auto;
+}
+.box-form{
+  background-color: transparent;
+  width: 75%;
+  padding: 2%;
+  display: flex;
+  text-align: left;
+}
+.suscripcion{
+  width: 100%;
+  height: auto;
+  border: 1px solido #6E4944;
+  color: #6E4944;
+  padding: 0.5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.Formulario{
+  background-color: transparent;
+  width: 100%;
+}
+.buttom{
+  background-color: #6E4944;
+  width: 100%;
+  color: #FFFFFF;
+  padding: 1%;
+  border: none;
+  font-weight: bold;
+}
+.encabezados{
+  font-size: 1.3em;
+  color: #6E4944;
+}
+.box-contacto{
+  background-color: #FCFBFB;
+  padding: 2%;
+  display: flex;
+  justify-content: center;
+}
+.box-2{
+  width: 80%;
+  display: flex;
+  text-align: left;
+}
+.suscripcion{
+  width: 100%;
+  height: auto;
+  border: 1px solido #6E4944;
+  color: #6E4944;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.Formulario2{
+  background-color: transparent;
+  width: 100%;
+  text-align: left;
+  color: #6E4944;
+}
+.encabezado2{
+  font-size: 2em;
+  color: #BC7B54;
+  text-align: center;
+}
+.textgrande{
+  width: 100%;
+  height: 20%;
+  border: 1px solido #6E4944;
+  color: #6E4944;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: 1%;
+  font-family: sans-serif;
+
+}
+.buttom2{
+  background-color: #6E4944;
+  width: 100%;
+  color: #FFFFFF;
+  padding: 1.3%;
+  border: none;
+  font-weight: bold;
+  float: right;
+}
+.footer{
+  background-color: transparent;
+  width: 80%;
+  padding: 1%;
+  color: #6E4944;
+}
+a{
+  text-decoration: none;
+  color: #6E4944;
+}
+.cambiar{
+  font-weight: bold;
+  
+}
